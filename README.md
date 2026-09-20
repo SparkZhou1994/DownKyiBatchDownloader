@@ -1,6 +1,6 @@
 # DownKyi 批量下载脚本
 
-把 Python 端已提取的 BV 号列表逐个送入 [DownKyi 1.6.1](https://github.com/1049451037/DownKyi) 首页输入框，自动走完"解析 → 选清晰度 → 加入下载队列"全流程。
+把 Python 端已提取的 BV 号列表逐个送入 [DownKyi 1.6.1](https://github.com/leiurayer/downkyi) 首页输入框，自动走完"解析 → 选清晰度 → 加入下载队列"全流程。
 
 > ⚠️ 重要前提：
 > - DownKyi 1.6.1 **不支持命令行参数**，必须由 UI 自动化驱动。
